@@ -76,21 +76,18 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://viewscreen.githubusercontent.com/view/pdf?browser=safari&bypass_fastly=true&color_mode=auto&commit=533d8659f72cbed0f632c1d93a2bdfb68d5f898b&device=unknown_device&docs_host=https%3A%2F%2Fdocs.github.com&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4f6c7961527961626f766151412f4f6c7961527961626f766151412f353333643836353966373263626564306636333263316439336132626466623638643566383938622f73746570696b2d63657274696669636174652e706466&logged_in=true&nwo=OlyaRyabovaQA%2FOlyaRyabovaQA&path=stepik-certificate.pdf&platform=mac&repository_id=997835080&repository_type=Repository&version=17#c21ae81f-7860-40dc-9a3a-56cb23ca1ca1)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/OlyaRyabovaQA/OlyaRyabovaQA/refs/heads/main/02981b72a81.png)
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/OlyaRyabovaQA/OlyaRyabovaQA/refs/heads/main/02981b72a81.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:olyaryabova242@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Olya_Riabova)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
